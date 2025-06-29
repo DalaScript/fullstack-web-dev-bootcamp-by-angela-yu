@@ -5,10 +5,20 @@
 ---
 
 ## 📚 Table of Contents
-
+- [🧠 My process](#-my-process)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
+
+---
+
+### 🗃️ Useful resources
+
+ - [MDN Docs for Heading Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements)
+ - [[Windows] How to extract files from Zipped folder](https://pureinfotech.com/extract-zip-file-windows-11-10/)
+ - [[Mac] How to extract files from a Zipped folder](https://support.apple.com/en-gb/guide/mac-help/mchlp2528/mac)
+ - [Diff Checker](https://www.diffchecker.com/)
 
 ---
 
