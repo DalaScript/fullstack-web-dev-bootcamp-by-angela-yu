@@ -17,6 +17,7 @@
 ### 🗃️ Useful resources
 
  - [MDN Docs - Anchor Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/a)
+ - [picsum.photos](https://picsum.photos/)
 
 ---
 
