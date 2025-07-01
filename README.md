@@ -6,9 +6,17 @@
 
 ## 📚 Table of Contents
 
+- [🧠 My process](#-my-process)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
+
+---
+
+### 🗃️ Useful resources
+
+ - []()
 
 ---
 
