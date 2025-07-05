@@ -5,9 +5,19 @@
 ---
 
 ## 📚 Table of Contents
+- [🧠 My process](#-my-process)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
+
+---
+
+### 🗃️ Useful resources
+
+  - [The List Item element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)
+  - [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+  - [height](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
 
 ---
 
