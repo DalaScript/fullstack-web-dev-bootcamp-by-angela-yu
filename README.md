@@ -16,7 +16,8 @@
 
 ### 🗃️ Useful resources
 
- - []()
+ - [`<img>`: The Image Embed element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#attr-height)
+ - [GitHub](https://github.com/)
 
 ---
 
