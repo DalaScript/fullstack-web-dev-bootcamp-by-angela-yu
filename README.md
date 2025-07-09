@@ -5,9 +5,19 @@
 ---
 
 ## 📚 Table of Contents
+- [🧠 My process](#-my-process)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
+
+---
+
+### 🗃️ Useful resources
+
+ - [Color Hunt](https://colorhunt.co/)
+ - [named-color](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
+ - [RGB Mixer](https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/)
 
 ---
 
