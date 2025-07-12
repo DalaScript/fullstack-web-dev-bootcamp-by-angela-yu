@@ -18,6 +18,8 @@
  - [Color Hunt](https://colorhunt.co/)
  - [named-color](https://developer.mozilla.org/en-US/docs/Web/CSS/named-color)
  - [RGB Mixer](https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/)
+ - [](https://appbrewery.github.io/css-inspection/)
+ - [](https://chromewebstore.google.com/detail/pesticide/bakpbgckdnepkmkeaiomhmfcnejndkbi?pli=1)
 
 ---
 
