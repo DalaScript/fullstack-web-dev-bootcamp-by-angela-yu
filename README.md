@@ -20,6 +20,9 @@
  - [RGB Mixer](https://www.csfieldguide.org.nz/en/interactives/rgb-mixer/)
  - [](https://appbrewery.github.io/css-inspection/)
  - [](https://chromewebstore.google.com/detail/pesticide/bakpbgckdnepkmkeaiomhmfcnejndkbi?pli=1)
+ - [](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)
+ - [](https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform)
+ 
 
 ---
 
