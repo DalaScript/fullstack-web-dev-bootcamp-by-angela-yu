@@ -15,7 +15,11 @@
 
 ### 🗃️ Useful resources
 
- - []()
+ - [](https://appbrewery.github.io/css-positioning/)
+ - [](https://chromewebstore.google.com/detail/pesticide/bakpbgckdnepkmkeaiomhmfcnejndkbi)
+ - [](https://diana-adrianne.com/purecss-lace/)
+ - [](https://pattle.github.io/simpsons-in-css/)
+ - [](http://lascarid.es/fussyflags/)
 
 ---
 
