@@ -1,17 +1,32 @@
-# Introduction to HTML | Full-Stack Web Development Bootcamp by Angela
+# Introduction to HTML | The Complete Full-Stack Web Development Bootcamp by Angela Yu
 
 **Section 2**
+
+📘 Basic introduction to HTML – covering structure, headings, and working with files.
 
 ---
 
 ## 📚 Table of Contents
+- [🔎 Overview](#-overview)
+  - [🔗 Links](#-links)
 - [🧠 My process](#-my-process)
+  - [🔜 Next Section](#-next-section)
   - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
 
 ---
+
+### 🔗 Links
+
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/introduction-to-html)
+
+---
+
+### 🔜 Next Section
+
+ - Intermediate HTML | *Section 3* → [View Repository](https://github.com/DalaScript/next-projects-title)
 
 ### 🗃️ Useful resources
 
