@@ -26,7 +26,7 @@
 
 ### 🔜 Next Section
 
- - Intermediate HTML | *Section 3* → [View Repository](https://github.com/DalaScript/next-projects-title)
+ - Intermediate HTML | *Section 3* → [View Repository](https://github.com/DalaScript/intermediate-html)
 
 ### 🗃️ Useful resources
 
