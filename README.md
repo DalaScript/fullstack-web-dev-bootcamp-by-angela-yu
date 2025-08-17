@@ -1,11 +1,17 @@
-# Introduction to HTML | Full-Stack Web Development Bootcamp by Angela
+# Introduction to CSS | The Complete Full-Stack Web Development Bootcamp by Angela Yu
 
 **Section 5**
+
+🎨 First steps with CSS — styling HTML elements using properties like width, height, and list formatting.
 
 ---
 
 ## 📚 Table of Contents
+- [🔎 Overview](#-overview)
+  - [🔗 Links](#-links)
 - [🧠 My process](#-my-process)
+  - [🔙 Previous Section](#-previous-section)
+  - [🔜 Next Section](#-next-section)
   - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -13,11 +19,29 @@
 
 ---
 
+## 🔎 Overview
+
+### 🔗 Links
+
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/introduction-to-css)
+
+---
+
+## 🧠 My Process
+
+### 🔙 Previous Section
+
+ - Multi-Page Websites | *Section 4* → [View Repository](https://github.com/DalaScript/multi-page-websites)
+
+### 🔜 Next Section
+
+ - CSS Properties | *Section 6* → [View Repository](https://github.com/DalaScript/css-properties)
+
 ### 🗃️ Useful resources
 
-  - [The List Item element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)
-  - [width](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
-  - [height](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+  - [MDN Docs – List Item (`<li>`)](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/li)
+  - [MDN Docs – CSS `width` Property](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+  - [MDN Docs – CSS `height` Property](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
 
 ---
 
