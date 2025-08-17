@@ -18,11 +18,15 @@
 
 ---
 
+## 🔎 Overview
+
 ### 🔗 Links
 
  - [🗂️ GitHub Repository](https://github.com/DalaScript/introduction-to-html)
 
 ---
+
+## 🧠 My Process
 
 ### 🔜 Next Section
 
