@@ -39,7 +39,7 @@
 
 ### 🗃️ Useful resources
 
- - [MDN Docs – Image Element (<img>)](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#attr-height)
+ - [MDN Docs – Image Element (`<img>`)](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/img#attr-height)
  - [GitHub – Getting Started](https://github.com/)
 
 ---
