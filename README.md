@@ -1,6 +1,6 @@
 # Grid | The Complete Full-Stack Web Development Bootcamp by Angela Yu
 
-**Section 9**
+**Section 10**
 
 ---
 
@@ -22,7 +22,6 @@
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/grid/)
  - [🗂️ GitHub Repository](https://github.com/DalaScript/grid)
 
 ---
@@ -31,15 +30,16 @@
 
 ### 🔙 Previous Section
 
- - Flexbox | *Section 8* → [View Repository](https://github.com/DalaScript/flexbox)
+ - Flexbox | *Section 9* → [View Repository](https://github.com/DalaScript/flexbox)
 
 ### 🔜 Next Section
 
- - Bootstrap | *Section 10* → [View Repository](https://github.com/DalaScript/bootstrap)
+ - Bootstrap | *Section 11* → [View Repository](https://github.com/DalaScript/bootstrap)
 
 ### 🗃️ Useful resources
 
- - []()
+ - [Grid Sizing Practice](https://appbrewery.github.io/grid-sizing/)
+ - [CSS Grid Garden Game](https://appbrewery.github.io/gridgarden/)
 
 ---
 
